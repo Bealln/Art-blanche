@@ -4,4 +4,6 @@ Development of an articulated 2DOF robot which follows a spectator. Contains pro
 
 This repository is part of the Art blanche project: Study of user experience and tangible representations of human interactions with interactive installations. 
 
+It has been developed from October 2018 - May 2019.
+
 
