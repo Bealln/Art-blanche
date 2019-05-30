@@ -6,4 +6,4 @@ This repository is part of the Art blanche project: Study of user experience and
 
 It has been developed from October 2018 - May 2019.
 
-
+The 2.Technology fold
